@@ -1,0 +1,10 @@
+[package]
+name = "routing-table"
+version = "0.1.0"
+edition = "2021"
+description = "Routing table with prefix matching (trie-based), path selection, and metric computation"
+license = "MIT OR Apache-2.0"
+authors = ["SuperInstance"]
+repository = "https://github.com/SuperInstance/routing-table"
+keywords = ["routing", "prefix", "trie", "network", "cidr"]
+categories = ["network-programming", "data-structures"]
